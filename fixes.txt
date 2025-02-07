@@ -1,0 +1,3 @@
+i am fixing file which will be used to fix the bug
+
+"Second bug fixed"
